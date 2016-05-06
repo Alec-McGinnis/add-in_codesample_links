@@ -9,6 +9,11 @@ You can find the code sample of this pattern in our [code sample repository](www
 #####Task Pane Add-in 
 #####1366x768 at 200%
 
+Embedded Dialog Specs
+Office Desktop
+Task Pane Add-in 
+1366x768 at 200%
+
 ![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/Embedded_Dialog_cropped1_small.png)
 
 ![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/Embedded_Dialog_content_cropped_smal.png)
