@@ -6,6 +6,8 @@ You can find the code sample of this pattern in our [code sample repository](www
 
 ![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/Embedded_Dialog_cropped1_small.png)
 
+![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/Embedded_Dialog_content_cropped_smal.png)
+
 ![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/Embedded_Dialog_cropped1.png)
 
 ![Embedded dialog](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/desktop_callouts_Optimal.png)
