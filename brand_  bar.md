@@ -1,13 +1,19 @@
-![Brand bar images](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/ca89c5be775df85bb8aaf49bde0995b0b9721950/Patterns/Brand_bar.pdf)
+![Brand bar images](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_Title%20Page.png)
 
-![cat](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
+You can find the code sample of this pattern in our [code sample repository](www.github.com/officedev/codesamples)  
 
-[google.com](https://www.google.com)
+[Here is a link to the .Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)
 
-www.google.com
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_Desktop%20Task%20Pane%20Callouts.png)
 
-<a href="www.google.com"> Google </a>
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_Desktop%20Task%20Pane.png)
 
-www.yahoo.com
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_iPad%20Task%20Pane.png)
 
-![science](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/science_v1.jpg)
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_Desktop%20Content%20Window%20Callouts.png)
+
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_Desktop%20Content%20Window.png)
+
+![Embedded dialog](https://github.com/Alec-McGinnis/add-in_codesample_links/blob/master/Embedded_Dialog_CODESAMPLES_iPad%20Content%20Window.png)
+
+
