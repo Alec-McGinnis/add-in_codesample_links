@@ -5,9 +5,6 @@
 
 ***
 
-
-
-
 ![Notification - Toast](https://raw.githubusercontent.com/Alec-McGinnis/add-in_codesample_links/master/PNGs/toast2/Notification_toast_Desktop%20Task%20Pane%20Callouts.png)
 **Notification - Toast Specs** | Desktop | Taskpane  
 
