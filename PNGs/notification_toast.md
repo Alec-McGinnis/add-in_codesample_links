@@ -1,11 +1,11 @@
 
-You can find the code sample of this pattern in our [code sample repository](www.github.com/officedev/codesamples)  
+[Code sample for this pattern](www.github.com/officedev/codesamples)  
 
-[Here is a link to the .Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)
+[.Ai file for this pattern](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)
 
 
 
-Notificationn - Toast Specs  
+**Notification - Toast Specs**  
 Office Desktop  
 Task Pane Add-in  
 1366x768 at 200%  
