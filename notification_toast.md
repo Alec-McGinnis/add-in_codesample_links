@@ -1,9 +1,10 @@
 ###Notification - Toast Specs  
 
 
-[Code sample for this pattern](www.github.com/officedev/codesamples)  
+[Code sample](www.github.com/officedev/codesamples)  
 
-[.Ai file for this pattern](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)
+[.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)    
+
 
 
 
