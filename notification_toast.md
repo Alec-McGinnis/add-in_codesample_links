@@ -4,6 +4,8 @@
 
 [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Alec's-ongoing-changes/Patterns/Source%20Files/Embedded_Dialog.ai)
 
+***
+
 
 
 
